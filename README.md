@@ -20,6 +20,6 @@ It’s ideal for developers who want to track mood, tasks, and ideas—while mai
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vikinotes.git
-cd vikinotes
+git clone https://github.com/VIDAKHOSHPEY22/VikiNotes.git
+cd VikiNotes
 python scripts/add_note.py
