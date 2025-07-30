@@ -23,3 +23,15 @@ It’s ideal for developers who want to track mood, tasks, and ideas—while mai
 git clone https://github.com/VIDAKHOSHPEY22/VikiNotes.git
 cd VikiNotes
 python scripts/add_note.py
+```
+
+
+---
+
+## 🧠 Project Keywords
+VikiNotes, AI notes, markdown editor, TTS assistant, productivity, LLaMA integration, personal assistant, open-source
+
+---
+
+## 🙋‍♀️ Maintainer
+Built and maintained by [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22) with love and curiosity.
