@@ -15,6 +15,8 @@ Perfect for developers who want to log their thoughts, track productivity, and k
 - Boost your GitHub contribution graph
 - Perfect for writing, journaling, or idea logging
 
+---
+
 ## 🧰 Tech Stack
 
 - Python 3
