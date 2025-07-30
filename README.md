@@ -3,6 +3,9 @@
 VikiNotes is a lightweight, Python-powered journaling tool for creating structured daily notes in Markdown format.  
 It’s ideal for developers who want to track mood, tasks, and ideas—while maintaining daily GitHub activity and productivity.
 
+![GitHub stars](https://img.shields.io/github/stars/VIDAKHOSHPEY22/VikiNotes?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/VIDAKHOSHPEY22/VikiNotes)
+
 ## ✨ Features
 
 - Automatically generates a daily `.md` note file
