@@ -5,6 +5,8 @@ Perfect for developers who want to log their thoughts, track productivity, and k
 ![GitHub stars](https://img.shields.io/github/stars/VIDAKHOSHPEY22/VikiNotes?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/VIDAKHOSHPEY22/VikiNotes)
 
+---
+
 ## ✨ Features
 
 - Automatically generates a daily `.md` note file
