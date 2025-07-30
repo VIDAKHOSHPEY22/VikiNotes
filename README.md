@@ -23,6 +23,8 @@ Perfect for developers who want to log their thoughts, track productivity, and k
 - Markdown
 - Git
 
+---
+
 ## 🚀 Getting Started
 
 ```bash
