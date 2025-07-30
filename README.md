@@ -35,5 +35,9 @@ VikiNotes, AI notes, markdown editor, TTS assistant, productivity, LLaMA integra
 
 ---
 
+## 📸 Screenshot (Coming soon)
+
+![VikiNotes demo](https://via.placeholder.com/800x400?text=VikiNotes+Demo+Coming+Soon)
+
 ## 🙋‍♀️ Maintainer
 Built and maintained by [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22) with love and curiosity.
