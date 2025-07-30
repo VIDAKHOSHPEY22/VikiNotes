@@ -41,3 +41,9 @@ VikiNotes, AI notes, markdown editor, TTS assistant, productivity, LLaMA integra
 
 ## 🙋‍♀️ Maintainer
 Built and maintained by [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22) with love and curiosity.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
