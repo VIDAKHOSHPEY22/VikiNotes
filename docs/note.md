@@ -18,4 +18,13 @@ The goal of this project is to create a voice-interactive and context-aware assi
 - [ ] Build a clean, user-friendly UI (CLI or Web)  
 
 ---
+## 🧠 Notes to Self
+
+- Keep the code modular and readable  
+- Follow good version control practices  
+- Document all major functions  
+- Prioritize user privacy and data security  
+- Test edge cases and unexpected user input  
+
+---
 
