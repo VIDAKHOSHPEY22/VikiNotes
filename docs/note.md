@@ -28,3 +28,8 @@ The goal of this project is to create a voice-interactive and context-aware assi
 
 ---
 
+## 📅 Created by
+**👩‍💻 Vida Khoshpey**  
+Date: **July 31, 2025**
+
+Made with ❤️ and curiosity
