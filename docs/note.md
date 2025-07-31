@@ -9,3 +9,13 @@ The goal of this project is to create a voice-interactive and context-aware assi
 
 ---
 
+## 📌 Current Focus
+
+- [x] Set up project repository on GitHub  
+- [ ] Implement core logic for note creation and retrieval  
+- [ ] Integrate voice recognition (whisper or speech-to-text)  
+- [ ] Add persistent storage (SQLite or JSON)  
+- [ ] Build a clean, user-friendly UI (CLI or Web)  
+
+---
+
